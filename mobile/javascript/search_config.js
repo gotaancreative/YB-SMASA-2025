@@ -1,0 +1,1 @@
+﻿var textForPages = ["CEK BARCODE                                      SMAN 1 LAMONGAN"];
